@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Societal Innovation Portal</string>
+    <string name="title_activity_main">Societal Innovation Portal</string>
+    <string name="package_name">com.societalinnovation.portal</string>
+    <string name="custom_url_scheme">com.societalinnovation.portal</string>
+</resources>

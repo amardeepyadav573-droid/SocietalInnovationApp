@@ -1,0 +1,9 @@
+{
+  "appId": "com.societalinnovation.portal",
+  "appName": "Societal Innovation Portal",
+  "webDir": "www",
+  "server": {
+    "url": "https://societal-innovation-portal-nu.vercel.app",
+    "cleartext": false
+  }
+}
